@@ -1,5 +1,5 @@
 # ProjectRISD - A Students Sanctuary
-### - Official School wworking website - https://sites.google.com/view/projectrisd/home
+### - Official School working website - https://sites.google.com/view/projectrisd/home
 ### - Whats Working?
 **Right now** theres an exploit that i know for sure works on the new chromebook that just got sent out, and its called...
 
